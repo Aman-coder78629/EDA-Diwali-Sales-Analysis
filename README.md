@@ -411,8 +411,3 @@ This project provides hands-on experience in:
 - Data Visualization
 - Business Intelligence
 
-
-
----
-
-## ⭐ If you found this project helpful, don't forget to leave a Star ⭐ on GitHub!
